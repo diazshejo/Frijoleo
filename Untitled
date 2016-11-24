@@ -1,0 +1,50 @@
+else if(event.item.id == "objImagenNotasBaile1"){
+    objImagenNotasBaile1 = new Image();
+    objImagenNotasBaile1.src = event.item.src;
+    arrObjNotasBaile[1] = objImagenNotasBaile1;
+}
+else if(event.item.id == "objImagenNotasBaile2"){
+    objImagenNotasBaile2 = new Image();
+    objImagenNotasBaile2.src = event.item.src;
+    arrObjNotasBaile[2] = objImagenNotasBaile2;
+}
+else if(event.item.id == "objImagenNotasBaile3"){
+    objImagenNotasBaile3 = new Image();
+    objImagenNotasBaile3.src = event.item.src;
+    arrObjNotasBaile[3] = objImagenNotasBaile3;
+}
+else if(event.item.id == "objImagenNotasBaile4"){
+    objImagenNotasBaile4 = new Image();
+    objImagenNotasBaile4.src = event.item.src;
+    arrObjNotasBaile[4] = objImagenNotasBaile4;
+}
+else if(event.item.id == "objImagenNotasBaile5"){
+    objImagenNotasBaile5 = new Image();
+    objImagenNotasBaile5.src = event.item.src;
+    arrObjNotasBaile[5] = objImagenNotasBaile5;
+}
+else if(event.item.id == "objImagenNotasBaile6"){
+    objImagenNotasBaile6 = new Image();
+    objImagenNotasBaile6.src = event.item.src;
+    arrObjNotasBaile[6] = objImagenNotasBaile6;
+}
+else if(event.item.id == "objImagenNotasBaile7"){
+    objImagenNotasBaile7 = new Image();
+    objImagenNotasBaile7.src = event.item.src;
+    arrObjNotasBaile[7] = objImagenNotasBaile7;
+}
+else if(event.item.id == "objImagenNotasBaile8"){
+    objImagenNotasBaile8 = new Image();
+    objImagenNotasBaile8.src = event.item.src;
+    arrObjNotasBaile[8] = objImagenNotasBaile8;
+}
+else if(event.item.id == "objImagenNotasBaile9"){
+    objImagenNotasBaile9 = new Image();
+    objImagenNotasBaile9.src = event.item.src;
+    arrObjNotasBaile[9] = objImagenNotasBaile9;
+}
+else if(event.item.id == "objImagenNotasBaile10"){
+    objImagenNotasBaile10 = new Image();
+    objImagenNotasBaile10.src = event.item.src;
+    arrObjNotasBaile[10] = objImagenNotasBaile10;
+}
